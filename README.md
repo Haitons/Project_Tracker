@@ -6,7 +6,9 @@
 ## 系统主界面：
 ![image](https://github.com/Haitons/Project_Tracker/raw/master/img-folder/a.png)
 ### 1、摄像头捕捉
+
 在打开的摄像头上圈出物体
+
 ![image](https://github.com/Haitons/Project_Tracker/raw/master/img-folder/b.png)
 
 随着标注物体的移动，红圈会随之移动。
