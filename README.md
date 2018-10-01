@@ -32,4 +32,4 @@ Intelligent labeling of video objects based on target tracking
 ![image](https://github.com/Haitons/Project_Tracker/raw/master/img-folder/poster.png)
 
 
-#### 2015.12
+### 2015.12
