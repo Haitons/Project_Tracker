@@ -1,4 +1,6 @@
 # Project_Tracker
+Intelligent labeling of video objects based on target tracking
+
 基于目标物跟踪的视频对象智能标注
 
 交互式标注目标物->目标物跟踪->更新标注框
